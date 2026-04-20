@@ -1,6 +1,6 @@
 ### Note :
-SYN → "Let’s establish connection"
-ACK → "I received your request"
+SYN → Let’s establish connection
+ACK → I received your request
 
 #AWS load balancers
 
