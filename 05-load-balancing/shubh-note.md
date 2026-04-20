@@ -18,7 +18,7 @@ WebSocket & HTTP/2 support
 Web apps, REST APIs, microservices
 
 
-2. NLB – Network Load Balancer (Layer 4)
+### 2. NLB – Network Load Balancer (Layer 4)
 
 - Works at Layer 4 (TCP/UDP)
 - Does not understand HTTP, only routes traffic
@@ -32,7 +32,7 @@ Good for real-time systems
 📌 Use case
 Gaming, IoT, real-time apps, financial systems
 
-3. ELB (Classic Load Balancer – CLB)
+### 3. ELB (Classic Load Balancer – CLB)
 
 - Old generation (supports Layer 4 + Layer 7)
 - Limited features compared to ALB/NLB
