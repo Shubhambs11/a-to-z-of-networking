@@ -1,8 +1,9 @@
 ### Note :
-SYN → Let’s establish connection
-ACK → I received your request
 
-#AWS load balancers
+` SYN → Let’s establish connection
+ACK → I received your request `
+
+# AWS load balancers
 
 ## 1. ALB – Application Load Balancer (Layer 7)
 
